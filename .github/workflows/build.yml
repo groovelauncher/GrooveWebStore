@@ -5,6 +5,11 @@ on:
     branches:
       - main
       - 'feature/*'
+    paths-ignore:
+      - 'store.json'
+
+permissions:
+  contents: write
 
 jobs:
   build:
