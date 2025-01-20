@@ -5,7 +5,6 @@ import { fileURLToPath } from 'node:url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const dbPath = path.join(__dirname, '../db');
-console.log("dbPath: ", dbPath);
 
 // Read all folders in the /db directory
 const getFolders = () => {
