@@ -1,0 +1,17 @@
+{
+  "name": "groovewebstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "check-db": "node scripts/check-db.js --trace-warnings",
+    "build-store": "node scripts/build-store.js",
+    "build": "npm run check-db --trace-warnings && npm run build-store"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Tunes",
+    "displayName": "Tunes",
+    "description": "Stream your favorite music",
+    "fullDescription": "Tunes allows you to stream and enjoy your favorite music anytime, anywhere.",
+    "id": "com.musicstreamer.tunes",
+    "author": {
+        "display": "Music Streamer",
+        "link": "https://musicstreamer.com"
+    },
+    "type": "webapp",
+    "entry": "main.html",
+    "versions": {
+        "1.0.0": {
+            "version": "1.0.0",
+            "date": "2023-02-01",
+            "changelog": "Initial release",
+            "url": "https://musicstreamer.com/tunes/v1.0.0"
+        }
+    },
+    "icon": "icon.jpg",
+    "featureGraphic": "feature.jpg",
+    "category": "Multimedia"
+}

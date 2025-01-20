@@ -1,0 +1,24 @@
+{
+    "name": "System Optimizer",
+    "displayName": "System Optimizer",
+    "description": "Optimize your system performance",
+    "fullDescription": "System Optimizer helps you clean and speed up your system for better performance.",
+    "id": "com.techwizard.systemoptimizer",
+    "author": {
+        "display": "Tech Wizard",
+        "link": "https://techwizard.com"
+    },
+    "type": "pwa",
+    "entry": "index.html",
+    "versions": {
+        "1.0.0": {
+            "version": "1.0.0",
+            "date": "2023-01-01",
+            "changelog": "Initial release",
+            "url": "https://techwizard.com/systemoptimizer/v1.0.0"
+        }
+    },
+    "icon": "icon.png",
+    "featureGraphic": "feature.png",
+    "category": "System"
+}

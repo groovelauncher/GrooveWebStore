@@ -1,0 +1,11 @@
+{
+  "store": {
+    "name": "Groove Web Store",
+    "active": true,
+    "db": [
+      "afa",
+      "kaak"
+    ],
+    "lastUpdated": "2025-01-20T00:32:29.921Z"
+  }
+}
